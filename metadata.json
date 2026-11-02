@@ -1,0 +1,6 @@
+{
+  "name": "PhoneHub PK — Prices • Compare • Buy • Sell",
+  "description": "Pakistan's Ultimate Mobile Hub for live PTA approved mobile prices, technical specs comparison, instant trade-in valuation, and Rasho Bhai Mandi AI consultation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
